@@ -3,8 +3,8 @@ body {
     margin: 0;
     background-color: #f4f4f4;
     color: #333;
-    font-size: 30px;    /* tamaño base del texto */
-    line-height: 3;     /* espacio entre líneas */
+    font-size: 20px;    /* tamaño base del texto */
+    line-height: 2;     /* espacio entre líneas */
 }
 
 .hero {     /* TITULO PRINCIPAL */
@@ -12,7 +12,7 @@ body {
     color: white;
     padding: 60px 20px;
     text-align: center;
-    font-size: 40px;
+    font-size: 30px;
     margin-bottom: 10px;
 }
 
@@ -20,12 +20,12 @@ body {
     padding: 40px 20px;
     background-color: white;
     margin: 20px;
-    border-radius: 20px;
+    border-radius: 10px;
 }
 
 h2 {    /* SUBTITULOS */
     color: #1f3a5f;
-    font-size: 40px;
+    font-size: 20px;
     margin-bottom: 10px;
 }
 
@@ -41,8 +41,8 @@ ul {
 
 .card {
     background-color: #f9f9f9;
-    border-radius: 6px;
-    width: 280px;
+    border-radius: 10px;
+    width: 400px;
     padding: 15px;
 }
 
