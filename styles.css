@@ -1,26 +1,32 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Montserrat, poppins;
     margin: 0;
     background-color: #f4f4f4;
     color: #333;
+    font-size: 20px;    /* tamaño base del texto */
+    line-height: 2;     /* espacio entre líneas */
 }
 
-.hero {
+.hero {     /* TITULO PRINCIPAL */
     background-color: #1f3a5f;
     color: white;
     padding: 60px 20px;
     text-align: center;
+    font-size: 36px;
+    margin-bottom: 10px;
 }
 
-.section {
+.section {    /* CUBO DE SECCIONES */
     padding: 40px 20px;
     background-color: white;
     margin: 20px;
-    border-radius: 6px;
+    border-radius: 10px;
 }
 
-h2 {
+h2 {    /* SUBTITULOS */
     color: #1f3a5f;
+    font-size: 40px;
+    margin-bottom: 10px;
 }
 
 ul {
